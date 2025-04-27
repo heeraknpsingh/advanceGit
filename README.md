@@ -1,2 +1,2 @@
 # advanceGit
-just to proactice advance git commands
+just to practise advance git commands
